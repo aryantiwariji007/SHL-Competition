@@ -1,0 +1,4 @@
+*.npz
+*.wav
+transcriptions*.csv
+.ipynb_checkpoints/

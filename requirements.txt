@@ -1,0 +1,5 @@
+# Installed on top of the standard Kaggle Python image (torch, torchaudio,
+# transformers, scikit-learn, pandas, numpy, matplotlib, nltk are preinstalled)
+openai-whisper
+language_tool_python
+sentence-transformers
